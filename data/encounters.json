@@ -4,9 +4,9 @@
     "card_04PZ016_Name": {
       "Key": "card_04PZ016_Name",
       "BossKey": "card_04PZ016_Name",
-      "Campaign": "\u4E16\u754C\u5192\u96AA",
-      "MapName": "\u8FC5\u6377\u65A5\u5019",
-      "NodeName": "\u8F5F\u70B8\u72D2\u72D2",
+      "Campaign": "\u4e16\u754c\u5192\u96aa",
+      "MapName": "\u8fc5\u6377\u65a5\u5019",
+      "NodeName": "\u8f5f\u70b8\u72d2\u72d2",
       "Games": 4,
       "FirstSeen": "2026-11-11T16:08:50.9273952+08:00",
       "LastSeen": "2026-11-11T21:59:12.4680976+08:00",
@@ -23,14 +23,15 @@
         "01PZ014": 2,
         "01PZ038": 2
       },
-      "TokenCards": []
+      "TokenCards": [],
+      "IsFinalized": true
     },
     "card_05PZ035_Name": {
       "Key": "card_05PZ035_Name",
       "BossKey": "card_05PZ035_Name",
-      "Campaign": "\u4E16\u754C\u5192\u96AA",
-      "MapName": "\u8FC5\u6377\u65A5\u5019",
-      "NodeName": "\u60E1\u81ED\u547C\u78B0",
+      "Campaign": "\u4e16\u754c\u5192\u96aa",
+      "MapName": "\u8fc5\u6377\u65a5\u5019",
+      "NodeName": "\u60e1\u81ed\u547c\u78b0",
       "Games": 1,
       "FirstSeen": "2026-11-11T22:16:51.8616905+08:00",
       "LastSeen": "2026-11-11T22:26:58.4279478+08:00",
@@ -49,27 +50,29 @@
         "05BC164": 2,
         "05BC223": 1
       },
-      "TokenCards": []
+      "TokenCards": [],
+      "IsFinalized": true
     },
     "card_01PZ024_Name": {
       "Key": "card_01PZ024_Name",
       "BossKey": "card_01PZ024_Name",
       "Campaign": "",
       "MapName": "",
-      "NodeName": "\u66B4\u8D70\u914D\u7DDA\u54E1",
+      "NodeName": "\u66b4\u8d70\u914d\u7dda\u54e1",
       "Games": 0,
       "FirstSeen": "2026-11-11T22:45:26.4140483+08:00",
       "LastSeen": "2026-11-11T22:45:26.4140494+08:00",
       "ExpectedCount": 0,
       "Cards": {},
-      "TokenCards": []
+      "TokenCards": [],
+      "IsFinalized": false
     },
     "SpiritBlossom_Adventure_Bilgewater_Name|card_05BW005_Name": {
       "Key": "SpiritBlossom_Adventure_Bilgewater_Name|card_05BW005_Name",
       "BossKey": "card_05BW005_Name",
-      "Campaign": "\u300C\u9748\u82B1\u796D\u300D\u5192\u96AA",
-      "MapName": "\u6D77\u6F6E\u4E4B\u97F3",
-      "NodeName": "\u5A1C\u7C73",
+      "Campaign": "\u300c\u9748\u82b1\u796d\u300d\u5192\u96aa",
+      "MapName": "\u6d77\u6f6e\u4e4b\u97f3",
+      "NodeName": "\u5a1c\u7c73",
       "Games": 2,
       "FirstSeen": "2026-11-13T21:53:56.5199686+08:00",
       "LastSeen": "2026-11-14T00:08:25.0102574+08:00",
@@ -88,14 +91,15 @@
         "05BW006": 1,
         "07BW041": 1
       },
-      "TokenCards": []
+      "TokenCards": [],
+      "IsFinalized": true
     },
     "SpiritBlossom_Adventure_Bilgewater_Name|card_02BW039_Name": {
       "Key": "SpiritBlossom_Adventure_Bilgewater_Name|card_02BW039_Name",
       "BossKey": "card_02BW039_Name",
-      "Campaign": "\u300C\u9748\u82B1\u796D\u300D\u5192\u96AA",
-      "MapName": "\u6D77\u6F6E\u4E4B\u97F3",
-      "NodeName": "\u9752\u56CA\u9B5A\u7375\u4EBA",
+      "Campaign": "\u300c\u9748\u82b1\u796d\u300d\u5192\u96aa",
+      "MapName": "\u6d77\u6f6e\u4e4b\u97f3",
+      "NodeName": "\u9752\u56ca\u9b5a\u7375\u4eba",
       "Games": 2,
       "FirstSeen": "2026-11-13T22:09:42.7746894+08:00",
       "LastSeen": "2026-11-14T12:12:42.81795+08:00",
@@ -114,14 +118,15 @@
         "02BW029": 1,
         "03BW005": 1
       },
-      "TokenCards": []
+      "TokenCards": [],
+      "IsFinalized": true
     },
     "SpiritBlossom_Adventure_Bilgewater_Name|card_02BW008_Name": {
       "Key": "SpiritBlossom_Adventure_Bilgewater_Name|card_02BW008_Name",
       "BossKey": "card_02BW008_Name",
-      "Campaign": "\u300C\u9748\u82B1\u796D\u300D\u5192\u96AA",
-      "MapName": "\u6D77\u6F6E\u4E4B\u97F3",
-      "NodeName": "\u8096\u72D7\u6C34\u624B",
+      "Campaign": "\u300c\u9748\u82b1\u796d\u300d\u5192\u96aa",
+      "MapName": "\u6d77\u6f6e\u4e4b\u97f3",
+      "NodeName": "\u8096\u72d7\u6c34\u624b",
       "Games": 2,
       "FirstSeen": "2026-11-13T22:11:06.3299535+08:00",
       "LastSeen": "2026-11-14T12:38:30.208992+08:00",
@@ -134,14 +139,15 @@
         "02BW004": 3,
         "03BW008": 2
       },
-      "TokenCards": []
+      "TokenCards": [],
+      "IsFinalized": true
     },
     "SpiritBlossom_Adventure_Bilgewater_Name|card_02BW028_Name": {
       "Key": "SpiritBlossom_Adventure_Bilgewater_Name|card_02BW028_Name",
       "BossKey": "card_02BW028_Name",
-      "Campaign": "\u300C\u9748\u82B1\u796D\u300D\u5192\u96AA",
-      "MapName": "\u6D77\u6F6E\u4E4B\u97F3",
-      "NodeName": "\u6012\u6FE4\u72C2\u9BCA\u7832",
+      "Campaign": "\u300c\u9748\u82b1\u796d\u300d\u5192\u96aa",
+      "MapName": "\u6d77\u6f6e\u4e4b\u97f3",
+      "NodeName": "\u6012\u6fe4\u72c2\u9bca\u7832",
       "Games": 2,
       "FirstSeen": "2026-11-13T22:18:16.0054389+08:00",
       "LastSeen": "2026-11-14T12:49:11.4094424+08:00",
@@ -168,14 +174,15 @@
         "04SH074",
         "04PZ002",
         "01SI043"
-      ]
+      ],
+      "IsFinalized": true
     },
     "SpiritBlossom_Adventure_Bilgewater_Name|card_06MT008_Name": {
       "Key": "SpiritBlossom_Adventure_Bilgewater_Name|card_06MT008_Name",
       "BossKey": "card_06MT008_Name",
-      "Campaign": "\u300C\u9748\u82B1\u796D\u300D\u5192\u96AA",
-      "MapName": "\u6D77\u6F6E\u4E4B\u97F3",
-      "NodeName": "\u51F1\u723E",
+      "Campaign": "\u300c\u9748\u82b1\u796d\u300d\u5192\u96aa",
+      "MapName": "\u6d77\u6f6e\u4e4b\u97f3",
+      "NodeName": "\u51f1\u723e",
       "Games": 5,
       "FirstSeen": "2026-11-13T22:19:51.9396254+08:00",
       "LastSeen": "2026-11-14T15:37:16.3726713+08:00",
@@ -200,14 +207,15 @@
       },
       "TokenCards": [
         "08MT003T11"
-      ]
+      ],
+      "IsFinalized": true
     },
     "SpiritBlossom_Adventure_Bilgewater_Name|card_05BW011_Name": {
       "Key": "SpiritBlossom_Adventure_Bilgewater_Name|card_05BW011_Name",
       "BossKey": "card_05BW011_Name",
-      "Campaign": "\u300C\u9748\u82B1\u796D\u300D\u5192\u96AA",
-      "MapName": "\u6D77\u6F6E\u4E4B\u97F3",
-      "NodeName": "\u6D77\u8ECD\u4E0A\u5C07\u96EA\u5229",
+      "Campaign": "\u300c\u9748\u82b1\u796d\u300d\u5192\u96aa",
+      "MapName": "\u6d77\u6f6e\u4e4b\u97f3",
+      "NodeName": "\u6d77\u8ecd\u4e0a\u5c07\u96ea\u5229",
       "Games": 1,
       "FirstSeen": "2026-11-13T22:27:12.0776977+08:00",
       "LastSeen": "2026-11-13T22:36:13.7995005+08:00",
@@ -226,14 +234,15 @@
         "06BW037": 1,
         "01DE048": 1
       },
-      "TokenCards": []
+      "TokenCards": [],
+      "IsFinalized": true
     },
     "SpiritBlossom_Adventure_Bilgewater_Name|card_02BW037_Name": {
       "Key": "SpiritBlossom_Adventure_Bilgewater_Name|card_02BW037_Name",
       "BossKey": "card_02BW037_Name",
-      "Campaign": "\u300C\u9748\u82B1\u796D\u300D\u5192\u96AA",
-      "MapName": "\u6D77\u6F6E\u4E4B\u97F3",
-      "NodeName": "\u6DF1\u6DF5\u4E4B\u773C",
+      "Campaign": "\u300c\u9748\u82b1\u796d\u300d\u5192\u96aa",
+      "MapName": "\u6d77\u6f6e\u4e4b\u97f3",
+      "NodeName": "\u6df1\u6df5\u4e4b\u773c",
       "Games": 1,
       "FirstSeen": "2026-11-13T23:31:04.1467807+08:00",
       "LastSeen": "2026-11-14T00:05:52.3321864+08:00",
@@ -249,7 +258,8 @@
         "04PZ015",
         "04SH005",
         "03MT086"
-      ]
+      ],
+      "IsFinalized": true
     }
   }
 }
